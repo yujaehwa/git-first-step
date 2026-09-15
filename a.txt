@@ -1,2 +1,3 @@
 Hello Git
-//source tool에서 feature-a를 선택한다음에 
+//source tool에서 feature-a1를 선택한다음에 
+//source tool에서 feature-a2를 선택한다음에 
